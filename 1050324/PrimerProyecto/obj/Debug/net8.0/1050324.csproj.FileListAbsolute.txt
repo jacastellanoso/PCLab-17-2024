@@ -1,0 +1,14 @@
+C:\Users\Javier Castellanos\Documents\PensamientoComputacional\1050324\bin\Debug\net8.0\1050324.exe
+C:\Users\Javier Castellanos\Documents\PensamientoComputacional\1050324\bin\Debug\net8.0\1050324.deps.json
+C:\Users\Javier Castellanos\Documents\PensamientoComputacional\1050324\bin\Debug\net8.0\1050324.runtimeconfig.json
+C:\Users\Javier Castellanos\Documents\PensamientoComputacional\1050324\bin\Debug\net8.0\1050324.dll
+C:\Users\Javier Castellanos\Documents\PensamientoComputacional\1050324\bin\Debug\net8.0\1050324.pdb
+C:\Users\Javier Castellanos\Documents\PensamientoComputacional\1050324\obj\Debug\net8.0\1050324.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier Castellanos\Documents\PensamientoComputacional\1050324\obj\Debug\net8.0\1050324.AssemblyInfoInputs.cache
+C:\Users\Javier Castellanos\Documents\PensamientoComputacional\1050324\obj\Debug\net8.0\1050324.AssemblyInfo.cs
+C:\Users\Javier Castellanos\Documents\PensamientoComputacional\1050324\obj\Debug\net8.0\1050324.csproj.CoreCompileInputs.cache
+C:\Users\Javier Castellanos\Documents\PensamientoComputacional\1050324\obj\Debug\net8.0\1050324.dll
+C:\Users\Javier Castellanos\Documents\PensamientoComputacional\1050324\obj\Debug\net8.0\refint\1050324.dll
+C:\Users\Javier Castellanos\Documents\PensamientoComputacional\1050324\obj\Debug\net8.0\1050324.pdb
+C:\Users\Javier Castellanos\Documents\PensamientoComputacional\1050324\obj\Debug\net8.0\1050324.genruntimeconfig.cache
+C:\Users\Javier Castellanos\Documents\PensamientoComputacional\1050324\obj\Debug\net8.0\ref\1050324.dll
