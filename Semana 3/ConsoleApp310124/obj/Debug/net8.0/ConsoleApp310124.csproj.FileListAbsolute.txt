@@ -1,0 +1,14 @@
+C:\Users\Javier Castellanos\Desktop\URL\VISUAL STUDIO\ConsoleApp310124\bin\Debug\net8.0\ConsoleApp310124.exe
+C:\Users\Javier Castellanos\Desktop\URL\VISUAL STUDIO\ConsoleApp310124\bin\Debug\net8.0\ConsoleApp310124.deps.json
+C:\Users\Javier Castellanos\Desktop\URL\VISUAL STUDIO\ConsoleApp310124\bin\Debug\net8.0\ConsoleApp310124.runtimeconfig.json
+C:\Users\Javier Castellanos\Desktop\URL\VISUAL STUDIO\ConsoleApp310124\bin\Debug\net8.0\ConsoleApp310124.dll
+C:\Users\Javier Castellanos\Desktop\URL\VISUAL STUDIO\ConsoleApp310124\bin\Debug\net8.0\ConsoleApp310124.pdb
+C:\Users\Javier Castellanos\Desktop\URL\VISUAL STUDIO\ConsoleApp310124\obj\Debug\net8.0\ConsoleApp310124.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier Castellanos\Desktop\URL\VISUAL STUDIO\ConsoleApp310124\obj\Debug\net8.0\ConsoleApp310124.AssemblyInfoInputs.cache
+C:\Users\Javier Castellanos\Desktop\URL\VISUAL STUDIO\ConsoleApp310124\obj\Debug\net8.0\ConsoleApp310124.AssemblyInfo.cs
+C:\Users\Javier Castellanos\Desktop\URL\VISUAL STUDIO\ConsoleApp310124\obj\Debug\net8.0\ConsoleApp310124.csproj.CoreCompileInputs.cache
+C:\Users\Javier Castellanos\Desktop\URL\VISUAL STUDIO\ConsoleApp310124\obj\Debug\net8.0\ConsoleApp310124.dll
+C:\Users\Javier Castellanos\Desktop\URL\VISUAL STUDIO\ConsoleApp310124\obj\Debug\net8.0\refint\ConsoleApp310124.dll
+C:\Users\Javier Castellanos\Desktop\URL\VISUAL STUDIO\ConsoleApp310124\obj\Debug\net8.0\ConsoleApp310124.pdb
+C:\Users\Javier Castellanos\Desktop\URL\VISUAL STUDIO\ConsoleApp310124\obj\Debug\net8.0\ConsoleApp310124.genruntimeconfig.cache
+C:\Users\Javier Castellanos\Desktop\URL\VISUAL STUDIO\ConsoleApp310124\obj\Debug\net8.0\ref\ConsoleApp310124.dll
